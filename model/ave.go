@@ -17,10 +17,10 @@ type Ave struct {
 
 //Cacareja representa o som de uma galinha
 func (a Ave) Cacareja() string {
-	return "Cócóricó..."
+	return "Cócóricóooooooo..."
 }
 
-// Quack representa o soim de um pato
+// Quack representa o som de um pato
 func (a Ave) Quack() string {
-	return "Quack, quack..."
+	return "Quack, quackkkkkkkk..."
 }
