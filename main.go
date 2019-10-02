@@ -7,11 +7,11 @@ import (
 
 func main() {
 
-	jojo := model.Ave{}
-	jojo.Nome = "Jojo da silva"
+	animal := model.Ave{}
+	animal.Nome = "Jojo da silva"
 
-	queroAcordarComUmCarcarejo(jojo)
-	queroOuvirUmaPAtaNoLago(jojo)
+	queroAcordarComUmCarcarejo(animal)
+	queroOuvirUmaPAtaNoLago(animal)
 }
 
 func queroAcordarComUmCarcarejo(g model.Galinha) {
