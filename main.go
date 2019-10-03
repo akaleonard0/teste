@@ -8,7 +8,7 @@ import (
 func main() {
 
 	animal := model.Ave{}
-	animal.Nome = "Joooooooooo da silva"
+	animal.Nome = "Jooooooo da silva"
 
 	queroAcordarComUmCarcarejo(animal)
 	queroOuvirUmaPAtaNoLago(animal)
